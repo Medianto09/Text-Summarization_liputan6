@@ -1,7 +1,8 @@
 # Text-Summarization_liputan6
-This project is text summarization based on data lipuntan6, goals of this project is how to train the large dataset to do text summarization using transfer learning using BERT
+This project is text summarization based on data liputan6, goals of this project is how to train the large dataset to do text summarization using transfer learning using BERT
 
-This project was done by team as mention in the pdf file
+This project was done by team as mention in Liputan6 Text Summarization.pdf
+
 
 ## FIle include
 - **README.md**: brief information about the project and file
