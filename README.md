@@ -5,6 +5,7 @@ This project was done by team as mention in Liputan6 Text Summarization.pdf
 
 ## File
 file develop under google collab
+
 **text_summarization_BERT_fine_tune_clean.ipynb**: Notebook Jupyter explain EDA, Data Cleaning, Transfer Learning dan Fine-Tuning.
 **text_summarization_BERT_ROUGE.ipynb**: Notebook Jupyter explain evaluation model using ROUGE.
 
